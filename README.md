@@ -2,5 +2,4 @@
 Java (Maven) application for tracking time on the job
 
 Time tracker
-
-just checking with the merge options
+checking for difference
